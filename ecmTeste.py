@@ -5,7 +5,7 @@ def avalia_nota(nota):
         print('Avaliação insatisfatória!')
     else:
         print('Avaliação neutra!')
-    
+#teste
 try:
     nota = int(input('Digite sua avaliação sobre o atendimento (0 - 100): '))
     avalia_nota(nota)

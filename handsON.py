@@ -25,6 +25,7 @@ media_par = nota_par / 25
 print('Média dos Alunos Ímpares: ', media_impar)
 print('Média dos Alunos Pares: ', media_par)
 
+#st
 if media_par > media_impar:
     print('Os Alunos Pares tiveram o melhor desempenho!')
 else:
